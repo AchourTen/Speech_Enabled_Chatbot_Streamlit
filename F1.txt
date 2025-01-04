@@ -1,0 +1,37 @@
+Formula 1 is the highest class of international racing for single-seater automobiles. Organized by the Fédération Internationale de l'Automobile (FIA), it features the most technologically advanced racing cars in motorsport. The "Formula" in the name refers to the set of rules that all participants' cars must conform to.
+
+Each Formula 1 season consists of a series of races, known as Grands Prix, which take place worldwide on purpose-built circuits and closed public roads. The results of each race are evaluated using a points system to determine two annual World Championships: one for drivers and one for constructors.
+
+Modern Formula 1 cars are capable of speeds up to 360 km/h (220 mph) and can accelerate from 0 to 100 km/h (62 mph) in under 2.5 seconds. The cars feature sophisticated aerodynamics, with front and rear wings that generate downforce, allowing them to achieve extreme cornering speeds.
+
+The safety features in Formula 1 are extensive and constantly evolving. The cars are equipped with a reinforced carbon-fiber survival cell, known as the monocoque, and the Halo protection system, which protects the driver's head. HANS (Head And Neck Support) devices are mandatory to prevent head and neck injuries during crashes.
+
+The race weekend format typically includes three practice sessions, qualifying, and the race itself. Qualifying determines the starting grid positions for the race. The standard race distance is 305 kilometers (190 miles) or two hours, whichever comes first. Each team must make at least one pit stop during the race to change tires.
+
+Formula 1 has seen many legendary drivers throughout its history. Michael Schumacher and Lewis Hamilton share the record for most World Championships, with seven titles each. Ayrton Senna is often regarded as one of the greatest drivers of all time, known for his exceptional skill in wet conditions and his intense rivalry with Alain Prost.
+
+Ferrari is the most successful team in Formula 1 history, with 16 Constructors' Championships and 15 Drivers' Championships. McLaren, Williams, and Mercedes are also among the most successful teams. Red Bull Racing has emerged as a dominant force in recent years.
+
+The Drivers' Championship is awarded to the driver who accumulates the most points throughout the season. Points are awarded to the top 10 finishers in each race, with 25 points for first place, 18 for second, 15 for third, and decreasing amounts down to 1 point for tenth place. An additional point is awarded for the fastest lap if the driver finishes in the top 10.
+
+DRS (Drag Reduction System) is a key overtaking aid in modern Formula 1. It allows drivers to open a flap on the rear wing to reduce drag and increase straight-line speed when within one second of the car ahead at designated detection points. This system was introduced to promote more overtaking opportunities.
+
+The tires used in Formula 1 are supplied exclusively by Pirelli and come in different compounds: soft, medium, and hard. These compounds offer different levels of grip and durability. Teams must manage tire wear throughout the race, as it significantly impacts strategy and performance.
+
+Formula 1 engines, known as power units, are 1.6-liter V6 turbocharged hybrid engines. They incorporate complex energy recovery systems: the Motor Generator Unit - Kinetic (MGU-K) recovers energy under braking, while the Motor Generator Unit - Heat (MGU-H) recovers energy from exhaust gases.
+
+The Monaco Grand Prix is considered one of the most prestigious races in Formula 1. Held on the streets of Monte Carlo, it's known for its tight corners, narrow track, and glamorous atmosphere. Winning the Monaco Grand Prix is considered one of the greatest achievements in motorsport.
+
+Formula 1 cars are highly sophisticated in terms of data collection and analysis. Each car contains around 300 sensors that generate gigabytes of data during every race weekend. This data helps teams optimize car setup, strategy, and performance.
+
+Teams must operate under a cost cap, which limits the amount they can spend on developing and running their cars. This regulation was introduced to make the sport more sustainable and competitive by preventing the richest teams from outspending their rivals.
+
+The sport has a strong focus on sustainability, aiming to achieve a net-zero carbon footprint by 2030. This includes initiatives to reduce emissions from racing activities, freight and travel, and the development of sustainable fuels.
+
+Spa-Francorchamps in Belgium is one of the most challenging circuits in Formula 1. It features the famous Eau Rouge-Raidillon corner sequence, a steep uphill bend taken at high speed. Other iconic circuits include Silverstone in the UK, Monza in Italy, and Suzuka in Japan.
+
+Formula 1 has strict technical regulations governing car design. These include limitations on aerodynamic testing, engine development, and car dimensions. Teams must pass rigorous technical inspections to ensure their cars comply with these regulations.
+
+Recent rule changes have focused on improving racing and overtaking opportunities. Ground effect aerodynamics were reintroduced in 2022 to allow cars to follow each other more closely, leading to more exciting battles on track.
+
+The sport continues to expand globally, with new races being added in locations such as Miami, Las Vegas, and Saudi Arabia. This expansion helps bring Formula 1 to new audiences while maintaining its traditional European roots.
